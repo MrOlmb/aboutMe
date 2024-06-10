@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elvis-Olmb
+- 👋 Hi, I’m Elvis Olembe
 - 👀 I’m interested in programming, particularly in javascript 
 - 🌱 I’m currently learning artificial intelligence with python
 - 💞️ I’m looking to collaborate on web dev projects, mobile application development projects and trading bots development with python
